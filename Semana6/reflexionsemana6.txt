@@ -1,1 +1,1 @@
-Es importante que se resente una estructura en el momentode enviar la informacion debido a que da una   pred
+Es importante que se presente una estructura en el momento de enviar la informacion debido a que da una organizacion en como se hace la peticion hace que su recepcion y entrega de respuesta sea eficiente y de esta manera se le pueda dar solucion a la mayor cantidad de requerimientos que les lleguen su respuesta y por esto el backend debe de estar bien estructura para dar un buen soporte a la comunidad.
